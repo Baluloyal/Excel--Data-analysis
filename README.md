@@ -18,4 +18,10 @@ I developed a comprehensive project using Excel  . it is Country wise swiggy dat
 -<a href="https://github.com/Baluloyal/Excel--Data-analysis/blob/main/Excel%20Data%20analysis%20-%20dashboard%20.png">Dashbard of swiggy 
 
 #process
+1) first manipulate all dataset for our need 
+2) seperated the sheets to Dashbard , calculation , table
+3) add the pivot tables to the dataset
+4) import the graphs
+5) set all the graph and create the dashboards
+   
 
