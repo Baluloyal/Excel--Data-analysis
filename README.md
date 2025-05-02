@@ -25,3 +25,5 @@ I developed a comprehensive project using Excel  . it is Country wise swiggy dat
 5) set all the graph and create the dashboards
    
 
+# Final conclusion 
+I created a dashboard using country wise swiggy data analysis from 2010 to 2025 . i observed how to add the pivot tables for existing and new to data model and adding of graphs 
